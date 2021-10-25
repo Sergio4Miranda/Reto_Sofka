@@ -14,7 +14,10 @@ os, time, xlrd (version 1.2.0) y openpyxl(3.0.4)
 Si no las tiene instálelas con el siguiente comando desde el terminal de Python:
 
 pip install “nombre_libreria”
+
 pip install xlrd==1.2.0
+
+pip install openpyxl==3.0.4
 
 # Para tener en cuenta
 El juego corre al ejecutar el archivo main.py
